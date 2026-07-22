@@ -54,13 +54,13 @@ This report outlines the technical workflow and key business insights derived fr
 
 | Metric | Value |
 | --- | --- |
-| **Total Clients** | 2,940 - 2,913 (Portfolio view)[cite: 1, 4] |
-| **Total Portfolio Loans** | $4.38B[cite: 1, 4] |
-| **Total Bank Deposits** | $3.77B[cite: 1, 4] |
-| **Bank Loan** | $1.77B[cite: 1, 4] |
-| **Business Lending** | $2.60B[cite: 1, 4] |
-| **Checking Account Amount** | $963.28M[cite: 1, 4] |
-| **Saving Account Amount** | $698.73M[cite: 1, 4] |
+| **Total Clients** | 2,940 - 2,913  |
+| **Total Portfolio Loans** | $4.38B |
+| **Total Bank Deposits** | $3.77B |
+| **Bank Loan** | $1.77B |
+| **Business Lending** | $2.60B |
+| **Checking Account Amount** | $963.28M |
+| **Saving Account Amount** | $698.73M |
 
 > 💡 **Key Highlight:** The institution manages a robust portfolio with multi-billion-dollar exposures across corporate lending and core deposits, skewing heavily toward lower risk weightings.
 
